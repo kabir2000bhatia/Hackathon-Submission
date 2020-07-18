@@ -1,0 +1,18 @@
+Report Submitted By Kabir Bhatia(GSBSP-MI08)
+
+MY THEME FOR HACKATHON: MADE IN INDIA PRODUCTS 
+
+I have been give the problem statement to design a landing page/website on the topic 'made in  India products'.Intially, i started with my research work on the companys which have originated from india and manufacture and sell their products in the country itself.
+Some of those include(AllanSolly, Relaxo,Jio,Reliance digital, Van heusen, LAVA, Intex, Micromax, himalaya,biotique),and etc.
+
+After completing my research work i made a rough sketch in the form of wireframe in which i designed the layout of my website along with its different componets and sections that it might contain.
+
+After wireframing the basic layout, I started with the coding part, Till now i have completed 50% of my website. 
+
+Various  tools and technologies that i used in my project till now include HTML,CSS,BOOTSTRAP(note: JavaScript part is left + some componets like footer)
+
+copyright: (1)Most of the content was my own but for certain things like list of Indian companies and the products manufactured by them and how are these products better than imported products etc, for gathering these and research work i took help from WIKIPEDIA.
+	(2)Fontawesome for icons
+	(3)Google Fonts for changing font-style
+Out of the minimum elements that my website should contain as mentioned in the problem statement issued by -GSBSP i.e NAVBAR, HOME/LANDING PAGE, ABOUT SECTION AND FOOTER- i have completed 3 out of these 4 requirements in my web site.
+
