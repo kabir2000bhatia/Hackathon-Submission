@@ -1,0 +1,13 @@
+Report 2 Submitted By Kabir Bhatia (GSBSP-MI08)
+
+THEME: "MADE IN  INDIA PRODUCT LANDING PAGE"
+
+TECH STACK USED: HTML, CSS, BOOTSTRAP, JAVASCRIPT
+
+Greetings To GSBSP Team ,
+
+I have been continuously working on completing my website at regular intervals.As of now i have completed 75% of my website which includes the nav bar, home page, about us section, reviews section and footer.
+
+I have completed the UI part i.e i have completely designed the interface of my website HTML and CSS part is almost complete. Now i just need to add content to my website (i.e include images and content that i have gathered from various resources which includes my research work as well).
+
+I have already mentioned the copyrights in my 1 report please check it for reference.
