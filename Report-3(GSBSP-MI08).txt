@@ -1,0 +1,20 @@
+Report 3 Submitted By Kabir Bhatia (GSBSP-MI08)
+
+THEME: "MADE IN  INDIA PRODUCT LANDING PAGE"
+
+TECH STACK USED: HTML, CSS, BOOTSTRAP, VANILLA JAVASCRIPT, EMMET
+
+Greetings To GSBSP Team,
+
+In the 3rd session of hackathon FRONT END DEVELOPMENT i did the following tasks-
+
+1) First of all, I added content to my website that i gathered during my research work, it includes information from websites like lava , Boat, Himalayas, Iball, allensolly, WAN HEUSEN, Micromax, Dollar , liberty and etc i tried to gather most of the information from Indian
+products manufactures only as it would give more meaning to my theme.
+
+2)Next for images i took help from Amazon website.
+
+3)I updated my HTML and CSS code as per the need.
+
+4)Made a Seperate Reviews Section For the customers where they can see existing reviews of customers who have already purchased from the website and make their decision accordingly. In this part i used Vanilla Javascript.
+
+5)Made some design changes to my footer.
