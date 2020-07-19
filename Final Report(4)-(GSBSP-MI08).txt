@@ -1,0 +1,25 @@
+Report 3 Submitted By Kabir Bhatia (GSBSP-MI08)
+
+THEME: "MADE IN  INDIA PRODUCT LANDING PAGE"
+
+TECH STACK USED: HTML, CSS, BOOTSTRAP, VANILLA JAVASCRIPT, EMMET
+
+Greetings To GSBSP Team,
+
+First of all i would like to thank GSBSP Team for organizing such a wonderful Hackathon . It was a great experience for me as i got a chance to improve my 
+frontend development skills. I thoroughly enjoyed the sessions taken by your team.
+
+In the last 12 hours i worked on debugging my website and checking for any unresolved errors and to be honest there were a quite a number of them. So it is always
+good to debug your website before deploying it.
+
+I also tested my website against different devices in order to check the site's responsiveness and how it is performing on different screen sizes. According to those tests ,
+i ensured that my website is completely responsive on all the viewports(from mobile devices to dekstop screen).
+
+Finally, i created the repository as per the instructions given by GSBSP team and hosted my website on it.
+
+This is the link to my Final Submission: https://kabir2000bhatia.github.io/Frontend_MadeinIndiaProductLandingPage_GSBSP-MI08/
+
+Thanking GirlScriptBilaspur for organizing this Hackathon and hoping to participate and collaborate in future events as well.
+
+Regards
+Kabir Bhatia(Btech Student SRM IST)
